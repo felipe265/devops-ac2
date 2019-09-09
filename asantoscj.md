@@ -1,7 +1,4 @@
-# devops-ac2
+# Quero atuar na área de desenvolvimento de Software.
+# Atuar em uma empresa de desenvolvimento de aplicativos Mobile.
 
-def soma(a,b)
-a = 0
-b = 0
-s = a + b 
-print (s)
+
